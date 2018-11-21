@@ -4,10 +4,9 @@ uses
   Vcl.Forms,
   System.AnsiStrings,
   uError,
-  FMX.Dialogs,
+  Vcl.Dialogs,
   uTSingleESRIgrid,
   AVGRIDIO,
-  Vcl.Dialogs,
   uGWS_idf in 'uGWS_idf.pas' {MainForm};
 
 var
